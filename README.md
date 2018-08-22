@@ -11,8 +11,6 @@ A vector clock is an algorithm for generating a partial ordering of events in a 
   <li>Python 3.x</li>
 </ul>
 
-<br>
-
 <h1>Screenshot</h1>
 <br>
 ![vector_clock](https://user-images.githubusercontent.com/20106707/44480474-eabb1300-a660-11e8-85d0-76369b284ce7.png)
