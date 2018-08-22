@@ -14,7 +14,7 @@ A vector clock is an algorithm for generating a partial ordering of events in a 
 <br>
 
 <h1>Screenshots</h1>
-![vector](https://user-images.githubusercontent.com/20106707/44480075-f954fa80-a65f-11e8-8cbb-260375473dd9.png)
+![vector](https://user-images.githubusercontent.com/20106707/44480247-68325380-a660-11e8-8013-ee817d1c9e4f.png)
 
 
 <br>
